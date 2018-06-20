@@ -58,3 +58,4 @@ Mark Down
 - Le dashboard the TFS ne semble pas se mettre à jour même si on pointe directement sur un Document .md dans TFS.
 - Plus ou moins lisible si le markdown n’est pas interprété.
 - Plus difficile à imprimer
+..
