@@ -1,4 +1,5 @@
 # WikiTest
+<<<<<<< HEAD
 
 # Meilleurs pratiques
 
@@ -59,3 +60,6 @@ Mark Down
 - Plus ou moins lisible si le markdown n’est pas interprété.
 - Plus difficile à imprimer
 ..
+=======
+..
+>>>>>>> a808efc1509ef6220e8025fab313ad40efb8bf1d
