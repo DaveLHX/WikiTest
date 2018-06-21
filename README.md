@@ -63,6 +63,8 @@ Mark Down
 
 ## help and manual
 - Export site web, pdf,Word, etc...
+- templating
+- Localization ()
 - Intégration dans TFS
 - Import de fichier .rtf
 - Éditeur style word.
