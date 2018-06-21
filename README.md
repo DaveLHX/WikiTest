@@ -59,3 +59,14 @@ Mark Down
 - Plus ou moins lisible si le markdown n’est pas interprété.
 - Plus difficile à imprimer
 ..
+
+
+## help and manual
+- Export site web, pdf,Word, etc...
+- Intégration dans TFS
+- Import de fichier .rtf
+- Éditeur style word.
+- Command line qui permet d'intégrer dans le procéssus de build/livraison
+
+## Saba Publisher
+Luis dit l'avoir vu être utilisé ailleur dans l'organisation.  Sembhle plus centré sur du E-learning interactif.
